@@ -1,0 +1,4 @@
+admin:$2y$10$idWPTzucCjukblbMmQ3ZIORgwLpFlb4yl7bKYYcuVs5/1YLYW9kti
+gerente:$2y$10$puPX7wmYKOSr/GmzPB5W3OQ.HruSh1D9EUy3x5.cBaWznpe6NSf2.
+danielbras:$2y$10$S5MWNq4wdCRsbBiigADv8.TSyCMEBXRPVerI0Src5Or6Hi.erDh8e
+diogo:$2y$10$78DyK2atYmwZM.1p.TN3ceSV8c4ikLjDCiCriRG5rMxExqFmgl2si

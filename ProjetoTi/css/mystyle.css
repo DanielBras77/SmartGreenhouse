@@ -1,0 +1,71 @@
+
+.TIform {
+    width: 350px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.75);
+    margin-top: 10%;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+    border-radius: 20px;
+}
+
+.valor {
+    color: #af8042;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.valor-brilhante {
+    color: #e2b77e; 
+}
+
+.status {
+    color: white;
+    margin-left: 0%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.verde {
+    background-color: #198754;
+}
+
+.amarelo {
+    background-color: #ebdd23;
+}
+
+.vermelho {
+    background-color: #c90d0d;
+}
+
+.sidebar-brand {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.sidebar-item {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #dddddd;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.borda {
+    border: 2px solid rgba(0, 0, 0, 0.13);
+}
+
+.corBody {
+    background-color: rgba(198, 250, 190, 0.938);
+}
+
+.dataHora {
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+}

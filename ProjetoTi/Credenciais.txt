@@ -1,0 +1,6 @@
+Utilizadores e Passwords
+
+1.admin: admin (tem acesso a qualquer página - dashboard, histórico, estatísticas e câmara)
+2.gerente: gerente (só não tem acesso à câmara)
+3.danielbras: 101010 (apenas dashboard e histórico)
+4.diogo: 12345 (apenas dashboard e histórico)
